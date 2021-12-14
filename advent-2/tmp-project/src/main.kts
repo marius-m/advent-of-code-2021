@@ -1,0 +1,1 @@
+/Users/mariusmerkevicius/Projects/personal/advent-of-code-2021/advent-2/main.kts
